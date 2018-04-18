@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GmRecentCommits</string>
+    <string name="getData"> Get Recent Commit Details </string>
+    <string name="sha"> SHA KEY </string>
+    <string name="name"> NAME </string>
+    <string name="message"> MESSAGE </string>
 </resources>
